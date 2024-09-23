@@ -2,7 +2,6 @@
 **/*.o
 
 # Ignore files specified in the `clean` make target.
-**/spim
 **/spim.exe
 **/TAGS
 **/test.out
