@@ -3,6 +3,7 @@
 
 # Ignore files specified in the `clean` make target.
 **/spim.exe
+spim/spim
 **/TAGS
 **/test.out
 **/lex.yy.cpp
